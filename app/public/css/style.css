@@ -70,11 +70,13 @@ label {
 #submit {
     background-color: #d61010;
     border: none;
+    color: white;
 }
 
 #submit:hover {
     background-color: #b80c0c;
     border: none;
+    
 }
 
 .chosen-select {
