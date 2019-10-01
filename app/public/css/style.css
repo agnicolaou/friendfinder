@@ -47,6 +47,22 @@ h3 {
     font-weight: bold;
     margin-top: 20px;
 }
+
+h3,
+h5 {
+    color: rgb(173, 172, 172);   
+    font-weight: bold;
+}
+
+h5 {
+    margin-top: 10px;
+}
+
+h6 {
+    color: rgb(87, 86, 86);   
+    font-style: italic;
+    font-weight: bold;
+}
   
 input {
     margin-top: 20px;
@@ -58,4 +74,20 @@ input {
 
 .my-4 {
     background-color: #d61010;
+}
+
+#exampleFormControlSelect {
+    width: 50%;;
+}
+
+label {
+    margin-bottom: 0;
+}
+
+#submit {
+    background-color: #d61010;
+}
+
+#submit:hover {
+    background-color: #b80c0c;
 }
