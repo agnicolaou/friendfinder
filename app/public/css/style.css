@@ -63,10 +63,6 @@ input {
     background-color: #d61010;
 }
 
-#exampleFormControlSelect {
-    width: 50%;;
-}
-
 label {
     margin-bottom: 0;
 }
@@ -79,4 +75,8 @@ label {
 #submit:hover {
     background-color: #b80c0c;
     border: none;
+}
+
+.chosen-select {
+    color: rgb(87, 86, 86);
 }
