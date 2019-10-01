@@ -1,0 +1,61 @@
+#welcome-title {
+    color: rgb(173, 172, 172);
+    font-style: italic;
+}
+
+#logo {
+    font-family: 'Pacifico', cursive;
+    color: #d61010;
+}
+
+hr {
+    border-width: 5px;
+}
+
+.lead {
+    color: #d61010;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: rgb(173, 172, 172);
+    border: none;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color:rgb(138, 137, 137);
+    border-color: #ff5959;
+    outline: none;
+  }
+
+  #survey-title {
+    font-family: 'Pacifico', cursive;
+    color: #d61010;
+    margin-top: 20px;
+}
+
+h3 {
+    color: rgb(173, 172, 172);   
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 20px;
+}
+  
+input {
+    margin-top: 20px;
+}
+
+#exampleFormControlInput1 {
+    margin-top: 0px;
+}
+
+.my-4 {
+    background-color: #d61010;
+}
