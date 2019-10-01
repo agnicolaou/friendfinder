@@ -22,19 +22,6 @@ hr {
     background-color: white;
 }
 
-.btn-primary {
-    background-color: rgb(173, 172, 172);
-    border: none;
-    font-style: italic;
-    font-weight: bold;
-}
-
-.btn-primary:hover {
-    background-color:rgb(138, 137, 137);
-    border-color: #ff5959;
-    outline: none;
-  }
-
   #survey-title {
     font-family: 'Pacifico', cursive;
     color: #d61010;
@@ -86,8 +73,10 @@ label {
 
 #submit {
     background-color: #d61010;
+    border: none;
 }
 
 #submit:hover {
     background-color: #b80c0c;
+    border: none;
 }
