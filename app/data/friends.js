@@ -1,6 +1,6 @@
 // Friends to match
 
-var friendsArray= [
+var matchArray= [
 
     {
         name: "Jack Napier",
@@ -11,4 +11,4 @@ var friendsArray= [
 
 
 
-module.exports = friendsArray;
+module.exports = matchArray;
